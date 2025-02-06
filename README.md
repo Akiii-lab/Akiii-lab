@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm  web developer who likes programming in multiple fields, i like to do projects to learn more,<br>and i like teaching to new people who are getting  into the programming 
+🧑‍💻 I'm  web developer who likes programming in multiple fields
+i like to do projects to learn more 🧑‍🏫,<br>and i like teaching to new people who are getting  into the programming 
 
 
 ## 🌐 Socials:
