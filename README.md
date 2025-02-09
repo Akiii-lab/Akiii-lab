@@ -1,6 +1,8 @@
 # 💫 About Me:
 🧑‍💻 I'm  web developer who likes programming in multiple fields<br>i like to do projects to learn more 🧑‍🏫,<br>and i like teaching to new people who are getting  into the programming 
 
+if you want to learn more about me, you can look my [![Portfolio](https://img.shields.io/badge/Portfolio-%230081CB.svg?logo=briefcase&logoColor=white)](https://cristiangarcia.netlify.app)
+
 
 ## 🌐 Socials:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B573014892839&text&type=phone_number&app_absent=0)[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/akiiih) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khrismobile) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-garcia-sierra) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@crisakiii) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/akinorihk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KhrisAkiii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:garciasierrandres@gmail.com) 
